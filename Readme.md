@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/HowToWorkOffline/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HowToWorkOffline/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/HowToWorkOffline/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToWorkOffline/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Work with the DXPivotGrid Control Offline
 
 
